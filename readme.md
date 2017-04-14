@@ -3,7 +3,7 @@
  * Install NodeJs with NPM [Download here](https://nodejs.org/en/)
  * Install devbridge-styleguide (globally) `npm install devbridge-styleguide -g`
  * Install Gulp (globally) `npm install gulp-cli -g`
- * cd in the directory you cloned the reposetory
+ * cd in the directory you cloned the repository
  * Run `npm install` (This will install dependencies)
  * Run `gulp start-styleguide` (This will serve the API)
 

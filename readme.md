@@ -1,6 +1,6 @@
 # Setup
 
- * Install NodeJs with NPM [Download here](https://nodejs.org/en/){:target="_blank"}
+ * Install NodeJs with NPM [Download here](https://nodejs.org/en/)
  * Install devbridge-styleguide (globally) `npm install devbridge-styleguide -g`
  * Install Gulp (globally) `npm install gulp-cli -g`
  * cd in the directory you cloned the reposetory
@@ -11,5 +11,5 @@
 
  * Run `python -m SimpleHTTPServer` OR custom port: `python -m SimpleHTTPServer 80` (This will we used as HTTP server)
  * navigate your browser to: `http://localhost:8000/styleguide/`
- * Get familiar with [Styleguide](http://livingstyleguide.devbridge.com/){:target="_blank"}
- * Download and play: [devbridge/Styleguide](https://github.com/devbridge/Styleguide){:target="_blank"}
+ * Get familiar with [Styleguide](http://livingstyleguide.devbridge.com/)
+ * Download and play: [devbridge/Styleguide](https://github.com/devbridge/Styleguide)

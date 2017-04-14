@@ -4,6 +4,7 @@
   "description": "devbridge-styleguide-demo",
   "license": "MIT",
   "devDependencies": {
+    "devbridge-styleguide": "^0.4.17",
     "gulp": "^3.9.1"
   }
 }

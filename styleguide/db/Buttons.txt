@@ -30,8 +30,18 @@
     "isDeleted": true
   },
   {
+    "id": 1,
+    "name": "Button",
+    "code": "<button class=\"btn\">Button</button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align:center;\n  background-color: #F2F4FA;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": false
+  },
+  {
     "id": 5,
-    "name": "Button Purple",
+    "name": "Purple button",
     "code": "<button class=\"btn btn-purple\">Button</button>\n<button class=\"btn btn-purple btn-outline\">Button Outlined</button>",
     "description": "",
     "inlineCss": "#snippet { \n  text-align: center;\n}",
@@ -41,7 +51,7 @@
   },
   {
     "id": 6,
-    "name": "Button Green",
+    "name": "Green button",
     "code": "<button class=\"btn btn-green\">Button</button>\n<button class=\"btn btn-green btn-outline\">Button Outlined</button>",
     "description": "",
     "inlineCss": "#snippet { \n  text-align: center;\n}",
@@ -51,7 +61,7 @@
   },
   {
     "id": 7,
-    "name": "Button Fab",
+    "name": "FAB",
     "code": "<button class=\"btn btn-fab\"></button>",
     "description": "",
     "inlineCss": "#snippet { \n  text-align: center;\n}",
@@ -61,20 +71,10 @@
   },
   {
     "id": 8,
-    "name": "Button link",
+    "name": "Link button",
     "code": "<button class=\"btn btn-link\">I am a link, I promise!</button>",
     "description": "",
     "inlineCss": "#snippet { \n  text-align:center;\n}",
-    "includeJs": "false",
-    "isEdited": true,
-    "isDeleted": false
-  },
-  {
-    "id": 1,
-    "name": "Button",
-    "code": "<button class=\"btn\">Button</button>",
-    "description": "",
-    "inlineCss": "#snippet { \n  text-align:center;\n  background-color: #F2F4FA;\n}",
     "includeJs": "false",
     "isEdited": true,
     "isDeleted": false

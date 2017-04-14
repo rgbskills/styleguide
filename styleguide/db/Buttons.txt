@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "name": "Input Type Text",
+    "code": "<input type=\"text\" placeholder=\"type here....\">",
+    "description": "",
+    "inlineCss": "#snippet { \n  \n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": true
+  },
+  {
+    "id": 3,
+    "name": "tabs",
+    "code": "<div class=\"iugugu\"><div>",
+    "description": "",
+    "inlineCss": "#snippet { \n  \n}",
+    "includeJs": "true",
+    "isEdited": true,
+    "isDeleted": true
+  },
+  {
+    "id": 4,
+    "name": "Button purple",
+    "code": "<button class=\"btn btn-purple\">Button</button>\n<button class=\"btn btn-purple btn-outline\">Button</button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align: center;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": true
+  },
+  {
+    "id": 5,
+    "name": "Button Purple",
+    "code": "<button class=\"btn btn-purple\">Button</button>\n<button class=\"btn btn-purple btn-outline\">Button Outlined</button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align: center;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": false
+  },
+  {
+    "id": 6,
+    "name": "Button Green",
+    "code": "<button class=\"btn btn-green\">Button</button>\n<button class=\"btn btn-green btn-outline\">Button Outlined</button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align: center;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": false
+  },
+  {
+    "id": 7,
+    "name": "Button Fab",
+    "code": "<button class=\"btn btn-fab\"></button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align: center;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": false
+  },
+  {
+    "id": 8,
+    "name": "Button link",
+    "code": "<button class=\"btn btn-link\">I am a link, I promise!</button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align:center;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": false
+  },
+  {
+    "id": 1,
+    "name": "Button",
+    "code": "<button class=\"btn\">Button</button>",
+    "description": "",
+    "inlineCss": "#snippet { \n  text-align:center;\n  background-color: #F2F4FA;\n}",
+    "includeJs": "false",
+    "isEdited": true,
+    "isDeleted": false
+  }
+]

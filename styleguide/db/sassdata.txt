@@ -1,0 +1,54 @@
+[
+  {
+    "name": "theme",
+    "colors": {
+      "#4E2C9F": [
+        "$color-purple"
+      ],
+      "#e22c00": [
+        "$color-red"
+      ],
+      "#5ED9CA": [
+        "$color-green"
+      ]
+    },
+    "typography": [
+      {
+        "variable": "$font-kepler",
+        "value": "\"Kepler\"",
+        "weights": [
+          {
+            "weight": 400,
+            "italic": false
+          }
+        ]
+      },
+      {
+        "variable": "$font-ProximaNova",
+        "value": "\"ProximaNova\"",
+        "weights": [
+          {
+            "weight": 300,
+            "italic": false
+          },
+          {
+            "weight": 400,
+            "italic": false
+          },
+          {
+            "weight": 500,
+            "italic": false
+          },
+          {
+            "weight": 600,
+            "italic": false
+          },
+          {
+            "weight": 700,
+            "italic": false
+          }
+        ]
+      }
+    ]
+  }
+]

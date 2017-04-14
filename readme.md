@@ -11,5 +11,3 @@
 
  * Run `python -m SimpleHTTPServer` OR custom port: `python -m SimpleHTTPServer 80` (This will we used as HTTP server)
  * navigate your browser to: `http://localhost:8000/styleguide/`
- * Get familiar with [Styleguide](http://livingstyleguide.devbridge.com/)
- * Download and play: [devbridge/Styleguide](https://github.com/devbridge/Styleguide)
